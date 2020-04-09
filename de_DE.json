@@ -427,11 +427,11 @@
   "gameinfo.turn": "Runde: {0}",
   "gameinfo.serverversion": "Server Version: {0}",
   "gameinfo.gameover": "Dieses Spiel ist vorbei, öffnen Sie es, um das Endergebnis zu sehen",
-  "gameinfo.yourturn": "Es ist deine Runde um zu {0}",
+  "gameinfo.yourturn": "Du bist {0}",
   "gameinfo.opponentsturn": "Warte auf {0} um zu {1}",
   "gameinfo.start": "Starte das Spiel",
   "gameinfo.picktribe": "Wähle einen Stamm",
-  "gameinfo.play": "Spiele",
+  "gameinfo.play": "dran",
 
   "gamesaverbinary.unable.to.save": "Ich konnte das Spiel nicht speichern. Stelle sicher, dass du genügend Speicherplatz auf deinem Gerät hast.",
   "gamesaverbinary.unable.to.save.title": "Konnte nicht speichern :(",
