@@ -613,7 +613,7 @@
   "action.info.build": "Baue {0} hier",
   "action.info.reward.population": "Dadurch wird die Bevölkerung der nächstgelegenen Stadt wachsen. Wenn die Bevölkerung groß genug wird, wird die Stadt sich weiterentwickeln und mehr Ressourcen produzieren.",
   "action.info.reward.resources": "Damit erhältst du eine sofortige Belohnung von {0} Ressourcen",
-  "action.info.research": "Erforsche {0}.",
+  "action.info.research": "{0} erforschen.",
 
   "actionbtn.upgrade": "Zu {0} aufwerten",
   "actionbtn.remove.building": "Gebäude",
