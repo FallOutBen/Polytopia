@@ -353,7 +353,7 @@
   "actionbox.unit.toomany.info": "Diese Stadt kann keine weiteren Einheiten mehr unterhalten. Werte die Stadt auf, um mehr Platz für Einheiten zu erhalten.",
   "actionbox.building.doit": "TU ES",
   "actionbox.building.requiredtech": "Du musst {0} erforschen um dies zu tun, tippe auf den 'Technologiebaum' Knopf.",
-  "actionbox.building.techtree": "Tech. Baum",
+  "actionbox.building.techtree": "Technologiebaum",
   "actionbox.insufficientfunds": "Du hast nicht genug Sterne um dies zu kaufen. Tippe 'nächste Runde' um mehr Sterne zu erhalten.",
   "actionbox.confirm": "Bestätige {0}",
   "actionbox.confirm.info": "Bist du sicher, dass du das tun willst?",
