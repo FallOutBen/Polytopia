@@ -338,7 +338,7 @@
   "terrain.mountain": "Berg",
   "terrain.ice": "Eis",
   "actionbox.building.level": "Level {0}/{1}",
-  "actionbox.tile.roads": "Wege",
+  "actionbox.tile.roads": "Straßen",
   "actionbox.city": "Die Stadt {0}",
   "actionbox.city.level": "Lvl {0}",
   "actionbox.village": "Dorf",
@@ -359,7 +359,7 @@
   "actionbox.confirm.info": "Bist du sicher, dass du das tun willst?",
   "actionbox.confirm.button": "JA",
 
-  "tooltip.tile.road": "Baue einen Weg um diese Stadt mit der Hauptstadt zu verbinden.",
+  "tooltip.tile.road": "Baue eine Straße um diese Stadt mit der Hauptstadt zu verbinden.",
   "tooltip.tile.choose_unit": "Wähle eine zu produzierende Einheit.",
   "tooltip.tile.limit": "Diese Stadt kann keine weiteren Einheiten mehr unterhalten.",
   "tooltip.tile.capture.enemy": "Deine Stadt wird vom Feind eingenommen!",
