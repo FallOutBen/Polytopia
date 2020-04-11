@@ -216,7 +216,7 @@
   "building.resource": "Fügt ein {0} an die gewählte Kachel",
   "building.value": "Ist {0} Punkte wert",
   "building.ability.embark": "Einheiten, die sich hierher bewegen, werden zu Booten, die sich auf Wasser bewegen können.",
-  "building.ability.route": "Es schafft Handelswege durch {0} zu jedem anderen {1} innerhalb eines Radius von 5 Kacheln.",
+  "building.ability.route": "Schafft Handelswege durch {0} zu jedem anderen {1} innerhalb eines Radius von 5 Kacheln.",
   "building.ability.route.and": " und ",
   "building.ability.road": "Bau von Straßen, die die Städte mit der Hauptstadt verbinden. Verbundene Städte erhalten 1 Einwohner als Belohnung. Straßen geben außerdem einen Bewegungsbonus für alle Einheiten.",
   "building.ability.ruin": "Die Ruine einer alten Zivilisation kann wertvolle Dinge enthalten! Untersuche sie mit einer Einheit.",
