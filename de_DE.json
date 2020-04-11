@@ -331,8 +331,8 @@
   "resource.names.metal": "Metall",
 
   "terrain.unknown": "Unbekannte Lande",
-  "terrain.water": "wasser",
-  "terrain.ocean": "ozean",
+  "terrain.water": "Wasser",
+  "terrain.ocean": "Ozean",
   "terrain.field": "Feld",
   "terrain.forest": "Wald",
   "terrain.mountain": "Berg",
